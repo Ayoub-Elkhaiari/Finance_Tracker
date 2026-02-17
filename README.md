@@ -61,3 +61,9 @@ Open:
 - http://localhost:5173
 
 Frontend uses backend URL: `http://localhost:8000/api`
+
+
+
+<img width="1917" height="1009" alt="Screenshot 2026-02-18 003530" src="https://github.com/user-attachments/assets/60c5ebed-c40a-42df-80d7-c20ba3b4932d" />
+<img width="1917" height="1009" alt="Screenshot 2026-02-18 003530" src="https://github.com/user-attachments/assets/60c5ebed-c40a-42df-80d7-c20ba3b4932d" />
+
