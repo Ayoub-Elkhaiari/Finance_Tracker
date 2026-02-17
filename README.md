@@ -62,8 +62,19 @@ Open:
 
 Frontend uses backend URL: `http://localhost:8000/api`
 
+<img width="1919" height="1009" alt="Screenshot 2026-02-18 003612" src="https://github.com/user-attachments/assets/02b28646-5c2f-4251-8368-ceb8740eb822" />
 
 
+<img width="1919" height="1009" alt="Screenshot 2026-02-18 003623" src="https://github.com/user-attachments/assets/e84f861b-aabd-4efe-a3a9-28fdacd3f4dc" />
+
+<img width="1913" height="1007" alt="Screenshot 2026-02-18 003437" src="https://github.com/user-attachments/assets/c407c64a-f5aa-44d8-b287-22990ed1b5ab" />
+
+<img width="1919" height="950" alt="Screenshot 2026-02-18 003457" src="https://github.com/user-attachments/assets/b3603b3f-cc5e-4fb7-9e31-31ea9f3ccac7" />
+
+<img width="1913" height="1007" alt="Screenshot 2026-02-18 003520" src="https://github.com/user-attachments/assets/ef2ca10a-5ccb-4312-bd45-96cf04609b31" />
+
+<img width="1917" height="1009" alt="Screenshot 2026-02-18 003530" src="https://github.com/user-attachments/assets/507a0ad2-02d6-4bb6-88b2-d1111f5ce05b" />
+
 <img width="1917" height="1009" alt="Screenshot 2026-02-18 003530" src="https://github.com/user-attachments/assets/60c5ebed-c40a-42df-80d7-c20ba3b4932d" />
-<img width="1917" height="1009" alt="Screenshot 2026-02-18 003530" src="https://github.com/user-attachments/assets/60c5ebed-c40a-42df-80d7-c20ba3b4932d" />
+
 
