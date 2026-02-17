@@ -1,0 +1,30 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+myenv/
+venv/
+.env.*
+
+# ----------------------
+# Node / Frontend
+# ----------------------
+node_modules/
+.env
+.env.*
+tsconfig.tsbuildinfo
+
+# ----------------------
+# OS
+# ----------------------
+.DS_Store
+
+# ----------------------
+# Build / Misc
+# ----------------------
+dist/
+build/
