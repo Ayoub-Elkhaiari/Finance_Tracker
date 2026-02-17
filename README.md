@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A full-stack personal finance app with modern UI, JWT auth, transaction management, budgets, goals, and analytics.
+A full-stack Multi-container personal finance app with modern UI, JWT auth, transaction management, budgets, goals, and analytics.
 
 ## What is fully working now
 
